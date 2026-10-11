@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    int a,b;
+    printf("请输入宽和长\n");
+    scanf("%d %d",&a,&b);
+    printf("周长为%d\n",(a+b)*2);
+    printf("面积为%d\n",a*b);
+    return 0;
+}
