@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    int a;
+    scanf("%d",&a);
+    printf("%lf\n",pow(a,2));//pow默认为double同类型lf
+    return 0;
+}
