@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    printf("****\n");
+    printf("****\n");
+    printf("****\n");//也可以printf("****/n****/n****/n");
+    return 0;
+}
